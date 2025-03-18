@@ -1,0 +1,12 @@
+/ssl
+/dist
+/server/dist
+
+
+# dependencies
+/node_modules
+/server/node_modules
+
+# misc
+.env
+.DS_Store
